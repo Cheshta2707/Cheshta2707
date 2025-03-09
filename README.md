@@ -1,5 +1,10 @@
-# 💫 About Me:
-🔹 Proficient in: Python, Data Analysis, Machine Learning  <br>🎨 Creative Team Member at ISTE SRM<br>💃 Management Team at Axions Dance Club<br>📊 Exploring the world of Data Science & AI  <br><br>🚀 Currently working on projects that blend technology, creativity, and insights. Always eager to learn, collaborate, and innovate! 
+<h1 align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=B3C8CF&width=500&lines=Hi+there!+👋+I'm+Cheshta Grover.;An+Aspiring+Data Science+Engineer.;Welcome+to+my+GitHub+Profile!" alt="Typing Animation">
+</h1>
+<p>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=devanshsrajput&label=Profile%20views&color=0e75b6&style=flat" alt="devanshsrajput" /> </p>
+🔹 Proficient in: Python, Data Analysis, Machine Learning  <br>🎨 Creative Team Member at <b>ISTE SRM</b><br>💃 Management Team at <b>Axions Dance Club</b><br>📊 <b>Exploring the world of Data Science & AI  </b><br><br>🚀 Currently working on projects that blend <b>technology, creativity, and insights<\b>. Always eager to <b>learn, collaborate, and innovate!</b> 
 
 
 ## 🌐 Socials:
